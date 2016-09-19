@@ -40,7 +40,7 @@ API를 하나로 정하기보다는 각 회사에서 제작한 모바일 앱 or 
 
 #### 3일차
 
-+ 예습 : react-native의 APIS 예제 모두 따라해보기
++ 예습 : react-native의 APIS 예제 모두 따라해보기 (https://g6ling.gitbooks.io/react-native-tutorial-korean/content/chapter1.html)
 + APIS 복습 발표 / (???)
 + JavaScript Environment에 있는 ES6 문법 설명 / (???)
 + CSS Flexbox / (???)
